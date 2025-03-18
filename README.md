@@ -1,4 +1,5 @@
-Iris Classification using K-Nearest Neighbors (KNN)
+Iris Classification using K-Nearest Neighbors![image](https://github.com/user-attachments/assets/987f1ec6-978d-46bc-b436-edfd7b6abd36)
+(KNN)
 
 This project demonstrates a machine learning model that classifies Iris flower species using the K-Nearest Neighbors (KNN) algorithm. The model predicts species based on four flower features.
 
